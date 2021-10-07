@@ -1,1 +1,1 @@
-# sitkmutt-bookinfo-reviews
+# Bookinfo Application for Workshop
